@@ -1,0 +1,12 @@
+(fp_lib_table
+  (lib (name TMC4671-ES)(type KiCad)(uri ${KIPRJMOD}/Footprints/TMC4671-ES.pretty)(options "")(descr ""))
+  (lib (name TMC4671-LA)(type KiCad)(uri ${KIPRJMOD}/Footprints/TMC4671-LA.pretty)(options "")(descr ""))
+  (lib (name TMC6100-LA)(type KiCad)(uri ${KIPRJMOD}/Footprints/TMC6100-LA.pretty)(options "")(descr ""))
+  (lib (name SI7288DP-T1-GE3)(type KiCad)(uri ${KIPRJMOD}/Footprints/TRANS_SI7288DP-T1-GE3.pretty)(options "")(descr ""))
+  (lib (name LMR16020PDDAR)(type KiCad)(uri ${KIPRJMOD}/Footprints/LMR16020PDDAR.pretty)(options "")(descr ""))
+  (lib (name SN74LVC3G17DCURE4)(type KiCad)(uri ${KIPRJMOD}/Footprints/SN74LVC3G17DCURE4.pretty)(options "")(descr ""))
+  (lib (name MC2016K250000C16ESH)(type KiCad)(uri ${KIPRJMOD}/Footprints/MC2016K250000C16ESH.pretty)(options "")(descr ""))
+  (lib (name LTST-C191TBKT-5A)(type KiCad)(uri ${KIPRJMOD}/Footprints/LTST-C191TBKT-5A.pretty)(options "")(descr ""))
+  (lib (name INDPM6060X450N)(type KiCad)(uri ${KIPRJMOD}/Footprints/INDPM6060X450N.pretty)(options "")(descr ""))
+  (lib (name AD8418WBRZ-RL)(type KiCad)(uri ${KIPRJMOD}/Footprints/AD8418WBRZ-RL.pretty)(options "")(descr ""))
+)

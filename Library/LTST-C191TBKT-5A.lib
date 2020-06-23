@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# LTST-C191TBKT-5A
+#
+DEF LTST-C191TBKT-5A D 0 40 N N 1 L N
+F0 "D" 100 100 50 H V L BNN
+F1 "LTST-C191TBKT-5A" 100 0 50 H V L BNN
+F2 "0603" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 10 50 70 0 -10 N
+P 2 0 0 10 0 -10 -50 70 N
+P 2 0 0 10 50 -10 0 -10 N
+P 2 0 0 10 0 -10 -50 -10 N
+P 2 0 0 10 50 70 -50 70 N
+P 2 0 0 6 -80 60 -115 25 N
+P 2 0 0 6 -50 30 -85 -5 N
+P 3 0 0 6 -120 40 -130 10 -100 20 F
+P 3 0 0 6 -90 10 -100 -20 -70 -10 F
+X ~ 2 0 200 200 D 40 40 0 0 P 
+X ~ 1 0 -100 100 U 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library

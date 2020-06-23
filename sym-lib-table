@@ -1,0 +1,13 @@
+(sym_lib_table
+  (lib (name TMC4671-LA)(type Legacy)(uri ${KIPRJMOD}/Library/TMC4671-LA.lib)(options "")(descr ""))
+  (lib (name TMC6100-LA)(type Legacy)(uri ${KIPRJMOD}/Library/TMC6100-LA.lib)(options "")(descr ""))
+  (lib (name TMC4671-ES)(type Legacy)(uri ${KIPRJMOD}/Library/TMC4671-ES.lib)(options "")(descr ""))
+  (lib (name Switch_Regulador)(type Legacy)(uri ${KIPRJMOD}/Library/Switch_Regulador.lib)(options "")(descr ""))
+  (lib (name Amplifier_Current)(type Legacy)(uri ${KIPRJMOD}/Library/Amplifier_Current.lib)(options "")(descr ""))
+  (lib (name spincoater-rescue)(type Legacy)(uri ${KIPRJMOD}/spincoater-rescue.lib)(options "")(descr ""))
+  (lib (name SI7288DP-T1-GE3)(type Legacy)(uri ${KIPRJMOD}/Library/SI7288DP-T1-GE3.lib)(options "")(descr ""))
+  (lib (name LMR16020PDDAR)(type Legacy)(uri ${KIPRJMOD}/Library/LMR16020PDDAR.lib)(options "")(descr ""))
+  (lib (name SN74LVC3G17DCURE4)(type Legacy)(uri ${KIPRJMOD}/Library/SN74LVC3G17DCURE4.lib)(options "")(descr ""))
+  (lib (name MC2016K25.0000C16ESH)(type Legacy)(uri ${KIPRJMOD}/Library/MC2016K25.0000C16ESH.lib)(options "")(descr ""))
+  (lib (name LTST-C191TBKT-5A)(type Legacy)(uri ${KIPRJMOD}/Library/LTST-C191TBKT-5A.lib)(options "")(descr ""))
+)

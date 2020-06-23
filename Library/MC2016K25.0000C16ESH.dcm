@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MC2016K25.0000C16ESH
+D XTAL OSC XO 25.0000MHZ CMOS SMD
+F https://media.digikey.com/pdf/Data%20Sheets/AVX%20PDFs/MC2016K25.0000C16ESH_Spec~.pdf
+$ENDCMP
+#
+#End Doc Library
