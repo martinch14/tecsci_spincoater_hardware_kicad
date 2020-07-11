@@ -1,4 +1,11 @@
-18350893794161334
+18366818043190126
+AD8418WBRZ-RL
+AD8418WBRZ-RL
+
+
+0
+8
+8
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -51519,6 +51526,13 @@ heatsink
 0
 2
 1
+INDPM6060X450N
+INDPM6060X450N
+<b>VLS6045</b><br>
+
+0
+2
+2
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height
@@ -54886,6 +54900,13 @@ solder jumper open
 0
 5
 3
+KSR223GLFG
+KSR223GLFG
+
+
+0
+2
+2
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -56006,6 +56027,27 @@ Yellow 5381 Series LED
 0
 2
 2
+LMR16020PDDAR
+LMR16020PDDAR
+
+
+0
+8
+8
+LTST-C191TBKT-5A
+LTST-C191TBKT-5A
+
+
+0
+2
+2
+MC2016K250000C16ESH
+MC2016K250000C16ESH
+MC2016K25.0000C16ESH-1
+Crystal or Oscillator
+0
+4
+4
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -74213,6 +74255,20 @@ rotary encoder
 0
 5
 4
+SI7288DP-T1-GE3
+TRANS_SI7288DP-T1-GE3
+
+
+0
+10
+10
+SN74LVC3G17DCURE4
+SN74LVC3G17DCURE4
+
+
+0
+8
+8
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
@@ -75613,6 +75669,20 @@ TMC4671-ES
 0
 77
 77
+TMC4671-LA
+TMC4671-LA
+
+
+0
+77
+77
+TMC6100-LA
+TMC6100-LA
+
+
+0
+38
+38
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf

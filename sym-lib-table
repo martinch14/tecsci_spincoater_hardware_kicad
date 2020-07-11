@@ -10,4 +10,7 @@
   (lib (name SN74LVC3G17DCURE4)(type Legacy)(uri ${KIPRJMOD}/Library/SN74LVC3G17DCURE4.lib)(options "")(descr ""))
   (lib (name MC2016K25.0000C16ESH)(type Legacy)(uri ${KIPRJMOD}/Library/MC2016K25.0000C16ESH.lib)(options "")(descr ""))
   (lib (name LTST-C191TBKT-5A)(type Legacy)(uri ${KIPRJMOD}/Library/LTST-C191TBKT-5A.lib)(options "")(descr ""))
+  (lib (name MSS1P4-M3_89A)(type Legacy)(uri ${KIPRJMOD}/Library/MSS1P4-M3_89A.lib)(options "")(descr ""))
+  (lib (name ConnectorX3)(type Legacy)(uri ${KIPRJMOD}/Library/ConnectorX3.lib)(options "")(descr ""))
+  (lib (name ConnectorX2)(type Legacy)(uri ${KIPRJMOD}/Library/ConnectorX2.lib)(options "")(descr ""))
 )

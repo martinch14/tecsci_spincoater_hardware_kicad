@@ -9,4 +9,8 @@
   (lib (name LTST-C191TBKT-5A)(type KiCad)(uri ${KIPRJMOD}/Footprints/LTST-C191TBKT-5A.pretty)(options "")(descr ""))
   (lib (name INDPM6060X450N)(type KiCad)(uri ${KIPRJMOD}/Footprints/INDPM6060X450N.pretty)(options "")(descr ""))
   (lib (name AD8418WBRZ-RL)(type KiCad)(uri ${KIPRJMOD}/Footprints/AD8418WBRZ-RL.pretty)(options "")(descr ""))
+  (lib (name KSR223GLFG)(type KiCad)(uri ${KIPRJMOD}/Footprints/KSR223GLFG.pretty)(options "")(descr ""))
+  (lib (name DIODE_MSS1P4-M3)(type KiCad)(uri ${KIPRJMOD}/Footprints/DIODE_MSS1P4-M3.pretty)(options "")(descr ""))
+  (lib (name 1803280)(type KiCad)(uri ${KIPRJMOD}/Footprints/1803280.pretty)(options "")(descr ""))
+  (lib (name PHOENIX_1757242)(type KiCad)(uri ${KIPRJMOD}/Footprints/PHOENIX_1757242.pretty)(options "")(descr ""))
 )

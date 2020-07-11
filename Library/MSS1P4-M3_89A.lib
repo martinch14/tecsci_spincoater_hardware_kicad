@@ -1,0 +1,31 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# MSS1P4-M3/89A
+#
+DEF MSS1P4-M3/89A D 0 40 N N 1 L N
+F0 "D" -90 75 50 H V L BNN
+F1 "MSS1P4-M3/89A" -90 -135 50 H V L BNN
+F2 "DIODE_MSS1P4-M3/89A" 0 0 50 H I L BNN
+F3 "MSS2P3-M3/89A" 0 0 50 H I L BNN
+F4 "MSS2P3 Series 30 V 2 A Surface Mount Schottky Barrier Rectifier - MicroSMP" 0 0 50 H I L BNN
+F5 "MicroSMP Vishay Semiconductor" 0 0 50 H I L BNN
+F6 "Vishay Semiconductor" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 10 -50 -50 50 0 N
+P 2 0 0 10 50 0 -50 50 N
+P 2 0 0 10 75 50 50 50 N
+P 2 0 0 10 50 50 50 0 N
+P 2 0 0 10 -50 50 -50 -50 N
+P 2 0 0 10 50 0 50 -50 N
+P 2 0 0 10 75 50 75 40 N
+P 2 0 0 10 50 -50 25 -50 N
+P 2 0 0 10 25 -40 25 -50 N
+X ~ 1 100 0 100 L 40 40 0 0 P 
+X ~ 2 -100 0 100 R 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library

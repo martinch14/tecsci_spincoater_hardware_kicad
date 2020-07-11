@@ -20,19 +20,19 @@ F0 "microcontroladorEsp" 50
 F1 "microcontroladorEsp.sch" 50
 $EndSheet
 $Sheet
-S 3150 1450 1850 2550
+S 2850 1450 1850 2550
 U 5ED67AD8
 F0 "motionControl" 50
 F1 "motionControl.sch" 50
 $EndSheet
 $Sheet
-S 6050 1450 1800 2550
+S 5050 1450 1800 2550
 U 5ED67B39
 F0 "driverMotor" 50
 F1 "driverMotor.sch" 50
 $EndSheet
 $Sheet
-S 9100 1450 1750 2550
+S 7200 1450 1750 2550
 U 5ED67B8C
 F0 "alimentacion&conectores" 50
 F1 "alimentacion.sch" 50
