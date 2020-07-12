@@ -1,4 +1,11 @@
-18366818043190126
+18373195757447258
+1803280
+1803280
+
+
+0
+3
+3
 AD8418WBRZ-RL
 AD8418WBRZ-RL
 
@@ -48684,6 +48691,13 @@ THT ceramic resonator filter DSS6
 0
 3
 3
+DIODE_MSS1P4-M3
+DIODE_MSS1P4-M3
+
+
+0
+2
+2
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -57868,6 +57882,13 @@ DIL DIP PDIP 2.54mm 7.62mm 300mil
 0
 4
 4
+PHOENIX_1757242
+PHOENIX_1757242
+
+
+0
+2
+2
 Package_BGA
 Analog_BGA-28_4.0x6.25mm_Layout4x7_P0.8mm_Ball0.45mm_Pad0.4
 Analog BGA-28 4.0mm x 6.25mm package, pitch 0.4mm pad, based on https://www.analog.com/media/en/technical-documentation/data-sheets/8063fa.pdf
@@ -74262,6 +74283,13 @@ TRANS_SI7288DP-T1-GE3
 0
 10
 10
+SMBJ33A-13-F
+SMBJ33A-13-F
+
+
+0
+2
+2
 SN74LVC3G17DCURE4
 SN74LVC3G17DCURE4
 

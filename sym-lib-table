@@ -13,4 +13,5 @@
   (lib (name MSS1P4-M3_89A)(type Legacy)(uri ${KIPRJMOD}/Library/MSS1P4-M3_89A.lib)(options "")(descr ""))
   (lib (name ConnectorX3)(type Legacy)(uri ${KIPRJMOD}/Library/ConnectorX3.lib)(options "")(descr ""))
   (lib (name ConnectorX2)(type Legacy)(uri ${KIPRJMOD}/Library/ConnectorX2.lib)(options "")(descr ""))
+  (lib (name SMBJ33A-13-F)(type Legacy)(uri ${KIPRJMOD}/Library/SMBJ33A-13-F.lib)(options "")(descr ""))
 )

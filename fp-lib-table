@@ -13,4 +13,5 @@
   (lib (name DIODE_MSS1P4-M3)(type KiCad)(uri ${KIPRJMOD}/Footprints/DIODE_MSS1P4-M3.pretty)(options "")(descr ""))
   (lib (name 1803280)(type KiCad)(uri ${KIPRJMOD}/Footprints/1803280.pretty)(options "")(descr ""))
   (lib (name PHOENIX_1757242)(type KiCad)(uri ${KIPRJMOD}/Footprints/PHOENIX_1757242.pretty)(options "")(descr ""))
+  (lib (name SMBJ33A-13-F)(type KiCad)(uri ${KIPRJMOD}/Footprints/SMBJ33A-13-F.pretty)(options "")(descr ""))
 )
