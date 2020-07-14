@@ -324,17 +324,6 @@ NoConn ~ 1650 2750
 NoConn ~ 1650 2850
 NoConn ~ 1650 1350
 NoConn ~ 1650 1450
-$Comp
-L power:+3.3V #PWR0203
-U 1 1 5EEC73B3
-P 2250 850
-F 0 "#PWR0203" H 2250 700 50  0001 C CNN
-F 1 "+3.3V" H 2265 1023 50  0000 C CNN
-F 2 "" H 2250 850 50  0001 C CNN
-F 3 "" H 2250 850 50  0001 C CNN
-	1    2250 850 
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	2250 950  2250 850 
 Wire Wire Line
@@ -1066,4 +1055,17 @@ Microcontrolador ESP32D
 NoConn ~ 1100 6050
 Wire Wire Line
 	1200 6050 1200 6250
+Text Label 5050 1500 2    50   ~ 0
+SW1
+$Comp
+L power:+3.3V #PWR?
+U 1 1 5F1CFF8C
+P 2250 850
+F 0 "#PWR?" H 2250 700 50  0001 C CNN
+F 1 "+3.3V" H 2265 1023 50  0000 C CNN
+F 2 "" H 2250 850 50  0001 C CNN
+F 3 "" H 2250 850 50  0001 C CNN
+	1    2250 850 
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
